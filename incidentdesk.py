@@ -1,4 +1,3 @@
-"""Incident tracker CLI for a local SQLite database; no network dependencies."""
 from __future__ import annotations
 
 import argparse
